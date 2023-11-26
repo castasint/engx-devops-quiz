@@ -40,7 +40,7 @@ const devOpsQuestions = [
     correctAnswerIndex: 2
   },
   {
-    question: "In DevOps, what is Canary Testing?",
+    question: "In DevOps, what is Canary Testing??",
     options: [
       "A testing approach where the entire application is tested at once.",
       "Releasing a new feature to a small group of users to assess its impact before wider deployment.",
